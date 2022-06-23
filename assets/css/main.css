@@ -71,15 +71,12 @@ img {
 }
 
 .paragraph {
-    color: red;
+    color: black;
     line-height: 1em;
     font-weight: 500;
 
 }
 
-#parrafo-2 {
-    color: green;
-}
 
 body {
     font-family: 'Open Sans', sans-serif;
